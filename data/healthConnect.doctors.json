@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "64da628250c868332978ea44"
+  },
+  "name": "Doctor Ear Eye and Throat Nine",
+  "email": "d9@gmail.com",
+  "specialty": "Ear Eye and Throat",
+  "image": "https://i.ibb.co/qgcWHVG/doc4.jpg",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (ENT).Assistant Professor at Khulna Medical College & Hospital, Dhaka.",
+  "experience": 9,
+  "location": "Barishal"
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea45"
+  },
+  "name": "Doctor Cardiologist Ten",
+  "email": "d10@gmail.com",
+  "specialty": "Cardiologist",
+  "image": "https://i.ibb.co/HLyKcmF/doc3.jpg",
+  "biodata": "MBBS (DMC), MRCS (USA), FCPS (Cardiology).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 9
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea48"
+  },
+  "name": "Doctor Urologist Thirteen",
+  "email": "d13@gmail.com",
+  "specialty": "Urologist",
+  "biodata": "MBBS (DMC), MRCS (USA), FCPS (Urology). Associate Professor, Department of Urology, Popular Medical College & Hospital, Dhaka.",
+  "image": "https://i.ibb.co/0JRpYT2/doc1.jpg",
+  "experience": 9
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea41"
+  },
+  "name": "Doctor Dentist Six",
+  "email": "d6@gmail.com",
+  "specialty": "Gynaecologist",
+  "image": "https://i.ibb.co/HKym94T/doc1.jpg",
+  "biodata": "MBBS (DMC), MRCS (Canada), FCPS (Dental Surgery). Lecturer at Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 9
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea3d"
+  },
+  "name": "Doctor Medicine Two",
+  "email": "d2@gmail.com",
+  "specialty": "Medicine",
+  "image": "https://i.ibb.co/pZ7XCkg/doc2.jpg",
+  "biodata": "MBBS (DMC), MRCS (Norway), FCPS (Medicine).Professor at Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 7
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea40"
+  },
+  "name": "Doctor Medicine Five",
+  "email": "d5@gmail.com",
+  "specialty": "Medicine",
+  "image": "https://i.ibb.co/HKym94T/doc1.jpg",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Medicine).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 10
+},
+{
+  "_id": {
+    "$oid": "64da628250c868332978ea42"
+  },
+  "name": "Doctor Medicine Seven",
+  "email": "d7@gmail.com",
+  "specialty": "Medicine",
+  "image": "https://i.ibb.co/HLyKcmF/doc3.jpg",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Medicine).Professor at Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 9
+},
+{
+  "_id": {
+    "$oid": "64da695ee6d75bf2caf56d93"
+  },
+  "name": "Doctor Urologist Twenty",
+  "email": "d20@gmail.com",
+  "specialty": "Urologist",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Urologist).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": 9,
+  "image": "https://i.ibb.co/sv8RPH9/300-300.jpg"
+},
+{
+  "_id": {
+    "$oid": "65d990ef4e000e3915834507"
+  },
+  "name": "Doctor Cardiologist fifty",
+  "email": "d50@gmail.com",
+  "specialty": "Cardiologist",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Urologist).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": "5",
+  "image": "https://i.ibb.co/w79s7BC/Shafikul.jpg"
+},
+{
+  "_id": {
+    "$oid": "65e0033acc1a491bad5a0abd"
+  },
+  "name": "Prodip Kumar Banik",
+  "email": "prodip@gmail.com",
+  "specialty": "Dermatologist",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Urologist).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": "5",
+  "location": "Mymensing",
+  "image": "https://i.ibb.co/PW5twHj/pngimg-com-doctor-PNG15959.png"
+},
+{
+  "_id": {
+    "$oid": "65e01060cc1a491bad5a0abe"
+  },
+  "name": "Dr. Rafiqul Islam",
+  "email": "rafiq@gmail.com",
+  "specialty": "Gynaecologist",
+  "biodata": "MBBS (DMC), MRCS (UK), FCPS (Urologist).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": "10",
+  "location": "Rajshahi",
+  "image": "https://i.ibb.co/yRBBGRC/portrait-of-a-happy-young-doctor-in-his-clinic-royalty-free-image-1661432441.jpg"
+},
+{
+  "_id": {
+    "$oid": "65e010edcc1a491bad5a0ac0"
+  },
+  "name": "Dr. Din Mohmmad",
+  "email": "din@gmail.com",
+  "specialty": "Medicine",
+  "biodata": "MBBS (DMC), MRCS (England), FCPS (Urologist).Dhaka Medical College & Hospital, Dhaka.",
+  "experience": "23",
+  "location": "Dhaka",
+  "image": "https://i.ibb.co/xJr72zP/Quazi-Deen-Mohammad.jpg"
+}]

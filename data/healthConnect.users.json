@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65d98fc54e000e3915834506"
+  },
+  "name": "SHAFIKUL ISLAM",
+  "email": "shafiqul.cse33.bu@gmail.com",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "65d992884e000e391583450a"
+  },
+  "name": "Patient1",
+  "email": "p1@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65da424408a84f188e3ce1f7"
+  },
+  "name": "Ashiq",
+  "email": "ashiq.cse3.bu@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65da434f08a84f188e3ce1fa"
+  },
+  "name": "Alam",
+  "email": "janealam.cse3.bu01@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65da451208a84f188e3ce1fd"
+  },
+  "name": "Salam",
+  "email": "shafik.bu03@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65e48cd714a14b6e67b559fd"
+  },
+  "name": "Ashik Ghosh",
+  "email": "ashikghosh763@gmail.com",
+  "role": "admin"
+}]
