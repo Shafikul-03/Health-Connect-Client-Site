@@ -1,3 +1,6 @@
+* To run this project please write down this below command
+# npm start
+
 REACT_APP_projectId= doctors-portal-93ace
 REACT_APP_storageBucket= doctors-portal-93ace.appspot.com
 REACT_APP_messagingSenderId= 329789053313
